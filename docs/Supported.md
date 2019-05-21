@@ -12,6 +12,7 @@
 - [x] Fritz!Box 7360 WLAN
 - [x] Fritz!Box 6590 Cable
 - [x] Fritz!Box 6490 Cable
+- [x] Fritz!Box 6591 Cable
 
 ## Fritz!Repeater
 - [x] Fritz!Repeater 1750E
